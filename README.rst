@@ -114,9 +114,9 @@ The artifacts are placed in ``dist/``.
 Install from this GitHub Repo
 ---------------------------------
 
-ckanext-nbview can be installed using::
+ckanext-project_theme can be installed using::
 
-  pip install git+https://github.com/markmo/ckanext-nbedit#egg=ckanext-nbedit
+  pip install git+https://github.com/markmo/ckanext-project_theme#egg=ckanext-project_theme
 
 
 ---------------------------------
