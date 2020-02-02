@@ -540,3 +540,7 @@ msgstr "Create projects, groups and other exciting things"
 #: ckan/templates/user/read.html:21
 msgid "User hasn't created any datasets."
 msgstr "User hasn't created any projects."
+
+#: ckan/templates/package/snippets/resource_view.html"
+msgid "Notebook Edit"
+msgstr "Notebook Edit"

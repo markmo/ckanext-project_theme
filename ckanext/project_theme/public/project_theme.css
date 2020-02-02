@@ -1,0 +1,81 @@
+.add-btn {
+  margin-bottom: 1rem;
+}
+
+.format-label[data-format=ipynb], .format-label[data-format*=ipynb] {
+  background-image: url('/jupyter_logo.png');
+  background-position: 0 0;
+  background-size: 30px 35px;
+}
+
+.hero {
+  /* background: #eee url(../../../base/images/bg.png); */
+  background-image: url('/abstract.jpg');
+  background-size: 100% 100%;
+}
+
+[role=main] {
+  min-height: 250px;
+}
+
+.homepage header {
+  background-color: white;
+}
+
+.homepage .module-search {
+  background: transparent;
+}
+
+.homepage .module-search.box {
+  border: none;
+  box-shadow: none;
+}
+
+.homepage .module-search .tags {
+  background: rgba(255,255,255,0.8);
+  margin: 0 16px 0 16px;
+  width: max-content;
+}
+
+.homepage .module-search .tags h3 {
+  color: #333;
+}
+
+.homepage .module-search .module-content {
+  background: transparent;
+}
+
+.homepage .module-search .module-content .heading {
+  color: #333;
+  /* text-shadow: 0 1px 2px rgba(0,0,0,0.8); */
+}
+
+.homepage #field-main-search {
+  border: none;
+}
+
+.account-masthead.home {
+  background: white;
+}
+
+.account-masthead.home .account ul li {
+  border-left: 1px solid white;
+}
+
+.account-masthead.home .account ul li a {
+  color: #333;
+}
+
+.account-masthead.home .account ul li a:hover,
+.account-masthead.home .account ul li a:focus {
+  background-color: #eee;
+}
+
+.homepage .masthead .nav>li>a {
+  color: #333;
+}
+
+.homepage .masthead .nav>li>a:hover,
+.homepage .masthead .nav>li>a:focus {
+  color: white;
+}
