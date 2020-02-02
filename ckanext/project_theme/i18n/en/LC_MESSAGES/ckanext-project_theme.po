@@ -713,15 +713,15 @@ msgstr ""
 
 #: ckan/templates/home/snippets/promoted.html:8
 msgid "Welcome to CKAN"
-msgstr "Welcome to Data Hub"
+msgstr "Welcome to the Data Hub"
 
 #: ckan/templates/home/snippets/promoted.html:10
 msgid ""
 "This is a nice introductory paragraph about CKAN or the site in general. We "
 "don't have any copy to go here yet but soon we will "
 msgstr ""
-"This is a nice introductory paragraph about Data Hub or the site in general. We "
-"don't have any copy to go here yet but soon we will "
+"The Data Hub combines the ability to find data and to open computational notebooks "
+"to analyse, explore and model data to create meaningful outcomes."
 
 #: ckan/templates/organization/snippets/helper.html:8
 msgid ""
@@ -748,3 +748,7 @@ msgid ""
 " Your profile lets other CKAN users know about who you are and what you do. "
 msgstr ""
 " Your profile lets other users know about who you are and what you do. "
+
+#: ckan/templates/home/snippets/search.html:6
+msgid "Search data"
+msgstr "Find data and analysis"
