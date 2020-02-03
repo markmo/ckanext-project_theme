@@ -42,3 +42,6 @@ coverage.xml
 docs/_build/
 
 .coveralls.yml
+abstract.jpg
+ckanext/project_theme/public/europa_datahub_logo_black_450x132.png
+ckanext/project_theme/public/europa_datahub_logo_white_450x132.png

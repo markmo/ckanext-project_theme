@@ -9,8 +9,7 @@
 }
 
 .hero {
-  /* background: #eee url(../../../base/images/bg.png); */
-  background-image: url('/abstract.jpg');
+  background: #eee url(../../../base/images/bg.png);
   background-size: 100% 100%;
 }
 
