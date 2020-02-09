@@ -78,3 +78,34 @@
 .homepage .masthead .nav>li>a:focus {
   color: white;
 }
+
+.hero {
+  background: #eee url(../../../base/images/bg.png);
+  background: #eee;
+  background-size: 100% 100%;
+}
+
+.masthead {
+  background-color: white;
+}
+
+.masthead .nav>li>a {
+  color: #333;
+}
+
+.account-masthead {
+  background: white;
+}
+
+.account-masthead .account ul li {
+  border-left: 1px solid white;
+}
+
+.account-masthead .account ul li a {
+  color: #333;
+}
+
+.account-masthead .account ul li a:hover,
+.account-masthead .account ul li a:focus {
+  background-color: #eee;
+}
