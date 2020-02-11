@@ -81,7 +81,7 @@
 
 .hero {
   background: #eee url(../../../base/images/bg.png);
-  background: #eee;
+  background: #eee url(/telstra_gradient_657.png);
   background-size: 100% 100%;
 }
 
@@ -108,4 +108,67 @@
 .account-masthead .account ul li a:hover,
 .account-masthead .account ul li a:focus {
   background-color: #eee;
+}
+
+.site-footer {
+  background: white url(../../../base/images/bg.png);
+  color: #333;
+}
+
+.site-footer a {
+  color: #333;
+}
+
+.site-footer label {
+  color: #333;
+}
+
+body {
+  background: white url(../../../base/images/bg.png);
+}
+
+.masthead .navigation .nav-pills li a:hover,
+.masthead .navigation .nav-pills li a:focus,
+.masthead .navigation .nav-pills li.active a {
+  background-color: #0058a9;
+}
+
+.btn-primary {
+  color: #ffffff;
+  background-color: #0058a9;
+  border-color: #0058a9;
+}
+
+.btn-primary:hover,
+.btn-primary:focus,
+.btn-primary:active {
+  color: #ffffff;
+  background-color: rgba(0,0,0,0.8);
+  border-color: rgba(0,0,0,0.8);
+}
+
+.btn:focus, .btn:active:focus,
+.btn.active:focus, .btn.focus,
+.btn:active.focus, .btn.active.focus {
+  outline: 5px auto rgba(0,0,0,0.8);
+  outline-offset: -2px;
+}
+
+.btn-primary:active:hover,
+.btn-primary.active:hover,
+.open>.dropdown-toggle.btn-primary:hover,
+.btn-primary:active:focus,
+.btn-primary.active:focus,
+.open>.dropdown-toggle.btn-primary:focus,
+.btn-primary:active.focus,
+.btn-primary.active.focus,
+.open>.dropdown-toggle.btn-primary.focus {
+  color: #ffffff;
+  background-color: rgba(0,0,0,0.8);
+  border-color: rgba(0,0,0,0.8);
+}
+
+.account-masthead .account ul li a:hover,
+.account-masthead .account ul li a:focus {
+  color: #333;
 }

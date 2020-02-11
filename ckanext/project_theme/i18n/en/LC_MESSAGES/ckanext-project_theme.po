@@ -713,7 +713,7 @@ msgstr ""
 
 #: ckan/templates/home/snippets/promoted.html:8
 msgid "Welcome to CKAN"
-msgstr "Welcome to the Data Hub"
+msgstr "Welcome to Telstra Data Hub"
 
 #: ckan/templates/home/snippets/promoted.html:10
 msgid ""
